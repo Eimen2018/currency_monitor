@@ -56,9 +56,6 @@ dependencies:
   # for formated time stamps
   timeago: ^3.3.0
 
-  # for list tile slide options
-  flutter_slidable: ^2.0.0
-
 dev_dependencies:
   flutter_test:
     sdk: flutter
